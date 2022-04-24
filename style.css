@@ -1,0 +1,28 @@
+img{
+	width: 100%;
+	padding: 1em;
+}
+.logo{
+	width: 10em;
+	border: none;
+	border-radius: 100px;
+}
+a.navbar-brand {
+	text-decoration: none;
+}
+.navbar, .navbar-expand-lg, .bg-warning, .navbar-light{
+	background-color: #7e99bd!important;
+}
+nav{
+	background-color: red;
+	color: red;
+}
+.s {
+	border-radius: 30px;
+}
+element.style{
+	left: 110px;
+}
+.dropdown-menu.show {
+	background-color: #a1b5cf!important;
+}
